@@ -211,3 +211,21 @@ footer {
     padding: 8px;
   }
 }
+.dark-mode {
+  background-color: #151515;
+  color: white;
+}
+
+.dark-mode main {
+  background-color: #151515;
+}
+
+.dark-mode .card {
+  background-color: #252525;
+  color: white;
+  border-color: #444;
+}
+
+.dark-mode .card h3 {
+  color: #d6b66f;
+}
